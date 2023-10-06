@@ -1,5 +1,7 @@
+import Title from "@/components/Title";
+
 const HomePage = () => {
-  return <h2>Ovdje će bit Title componenta</h2>;
+  return <Title />;
 };
 
 export default HomePage;
